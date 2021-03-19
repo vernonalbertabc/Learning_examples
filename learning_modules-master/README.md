@@ -31,6 +31,11 @@ Simple example of deployment of a linear regression app to predict salary based 
 Salary_Data.csv from https://www.kaggle.com/vihansp/salary-data
 ```
 
+### Buisiness intelligence project
+```  
+Data analytics project as a part of a course "Microsoft Power BI Desktop for Business Intelligence" from Udemy
+```
+
 For this course, I used python3.6
 
 Required dependancies,external files and Annanconda Prompt Installation codes are as as follows -:
