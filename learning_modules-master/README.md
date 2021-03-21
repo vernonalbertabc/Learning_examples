@@ -33,10 +33,11 @@ Salary_Data.csv from https://www.kaggle.com/vihansp/salary-data
 
 ### Buisiness intelligence project
 ```  
-Data analytics project as a part of a course "Microsoft Power BI Desktop for Business Intelligence" from Udemy
+1) Data analytics project as a part of a course "Microsoft Power BI Desktop for Business Intelligence" from Udemy
+2) Video game sales analysis. Dataset borrowed from https://www.kaggle.com/sidtwr/videogames-sales-dataset
 ```
 
-For this course, I used python3.6
+For the deep learning course, I used python3.6
 
 Required dependancies,external files and Annanconda Prompt Installation codes are as as follows -:
 
