@@ -31,11 +31,13 @@ Simple example of deployment of a linear regression app to predict salary based 
 Salary_Data.csv from https://www.kaggle.com/vihansp/salary-data
 ```
 
-### Buisiness intelligence project
+### Buisness intelligence project
 ```  
 1) Data analytics project as a part of a course "Microsoft Power BI Desktop for Business Intelligence" from Udemy
 2) Video game sales analysis. Dataset borrowed from https://www.kaggle.com/sidtwr/videogames-sales-dataset
 ```
+
+### Repository of projects from Kaggle
 
 For the deep learning course, I used python3.6
 
