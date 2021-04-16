@@ -19,6 +19,11 @@
 2. Linear Gradient Descent   
 3. Regression Fitting
 ```
+
+### SQL Project
+```
+Practical example on data manupulation of Multiple tables
+```
    
 For the deep learning course, I used python3.6
 
