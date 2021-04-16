@@ -20,25 +20,6 @@
 3. Regression Fitting
 ```
    
-   
-### SQL Project
-```
-Practical example on data manupulation of Multiple tables
-```
-### Docker_ML_APP
-```  
-Simple example of deployment of a linear regression app to predict salary based on experience. App created with Flask and HTML and Deployment with docker.
-Salary_Data.csv from https://www.kaggle.com/vihansp/salary-data
-```
-
-### Buisness intelligence project
-```  
-1) Data analytics project as a part of a course "Microsoft Power BI Desktop for Business Intelligence" from Udemy
-2) Video game sales analysis. Dataset borrowed from https://www.kaggle.com/sidtwr/videogames-sales-dataset
-```
-
-### Repository of projects from Kaggle
-
 For the deep learning course, I used python3.6
 
 Required dependancies,external files and Annanconda Prompt Installation codes are as as follows -:
