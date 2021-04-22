@@ -9,8 +9,7 @@
 3. Image Processing   
 4. Video Basics with Python and OpenCV   
 5. Object Detection   
-6. Deep learning for Computer Vision   
-7. Template Matching
+6. Template Matching
 ```
    
 ### Machine Learning Projects  
