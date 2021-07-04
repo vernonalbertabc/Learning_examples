@@ -17,6 +17,7 @@
 1. Deep Learning for Custom Images   
 2. Linear Gradient Descent   
 3. Regression Fitting
+4. Big Data processing (Spark)
 ```
 
 ### SQL Project
