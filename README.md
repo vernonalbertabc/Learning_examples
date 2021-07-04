@@ -1,6 +1,6 @@
 # Machine Learning and Image Processing Tutorials and Examples
 
-## This repository contains code examples for Machine Learning and Computer Vision 
+## This repository contains code examples for Machine Learning and Computer Vision based on Udemy courses on Machine Learning by Jose Portilla
 
 ### Computer Vision Projects
 ```
